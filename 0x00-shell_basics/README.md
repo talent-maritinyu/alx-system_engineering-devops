@@ -1,1 +1,2 @@
-The file containts description of tasks/ scripts 
+#!/bin/bash
+Write a script that prints the absolute path name of the current working directory-Task 0
