@@ -10,5 +10,7 @@ Move the file betty from /tmp/ to /tmp/my first directory-Task 7
 Delete the file betty from tmp/my first directory-Task 8
 Delete the directory my_first_directory that is in the /tmp directory-Task 9
 Write a script that changes the working directory to the previous one-Task 10
-Write a script that lists all files 
-script that prints the type of the file named iamafile
+Write a script that lists all files-Task 11
+script that prints the type of the file named iamafile-Task 12
+Create a symbolic link to /bin/ls, named __ls__ -Task 13
+
