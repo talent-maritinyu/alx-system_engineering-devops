@@ -5,5 +5,6 @@ Writing a script that changes the working directory to the user’s home directo
 Displaying current directory contents in a long format-Task
 Displaying current directory contents, including hidden files-Task 4
 Displaying current directory contents in long format, with user and group IDs displayed numerically and hidden files-Task 5
-Create a script that creates a directory named my_first_directory in the /tmp/ directory-Task 6
-Move the file betty from /tmp/ to /tmp/my_first_directory
+Create a script that creates a directory named my first directory in the /tmp/ directory-Task 6
+Move the file betty from /tmp/ to /tmp/my first directory
+Delete the file betty from tmp/my first directory
