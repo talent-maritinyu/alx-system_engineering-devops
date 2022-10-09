@@ -4,3 +4,4 @@ Task 0 swich user to betty
 Task 1 print current username
 Task 2 print all groups of current user
 Task 3 change file ownership from hello to betty
+Task 4 ceate empty file
