@@ -1,2 +1,1 @@
-#!/bin/bash
-The repository contains solutions to the 0x0-shell basics
+The repository contains directories with shell basics and shell permissions files
