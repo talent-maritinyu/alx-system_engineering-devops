@@ -10,3 +10,4 @@ Taks 6 add execution to owner, group and read to other users (114)
 Task 7 add execution to evrybody
 Task 8 no permisiions to user and group and all to others
 Task 9 all to user, rx to group and wx to other users
+Task 10 sets the mode of the file hello the same as olleh’s mode
