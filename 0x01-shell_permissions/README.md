@@ -14,4 +14,5 @@ Task 10 sets the mode of the file hello the same as olleh’s mode
 Task 11 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 Create a script that creates a directory called my_dir with permissions 751 in the working directory Task 12
 Task 13 change group owner to school for file hello
-Task 14 change ownership for all files and directories 
+Task 14 change ownership for all files and directories
+Task 15 change ownership symbolic link 
