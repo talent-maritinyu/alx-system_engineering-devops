@@ -15,4 +15,5 @@ Task 11 adds execute permission to all subdirectories of the current directory f
 Create a script that creates a directory called my_dir with permissions 751 in the working directory Task 12
 Task 13 change group owner to school for file hello
 Task 14 change ownership for all files and directories
-Task 15 change ownership symbolic link 
+Task 15 change ownership symbolic link
+Task 16 change ownershipof hello to betty if oened by user guillaum 
