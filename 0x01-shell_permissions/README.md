@@ -7,3 +7,4 @@ Task 3 change file ownership from hello to betty
 Task 4 create empty file
 Tisk 5 ad execution to owner of the files 
 Taks 6 add execution to owner, group and read to other users (114)
+Task 7 add execution to evrybody
