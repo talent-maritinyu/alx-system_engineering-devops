@@ -11,3 +11,5 @@ Task 7 add execution to evrybody
 Task 8 no permisiions to user and group and all to others
 Task 9 all to user, rx to group and wx to other users
 Task 10 sets the mode of the file hello the same as olleh’s mode
+Task 11 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+
