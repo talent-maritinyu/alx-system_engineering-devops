@@ -29,3 +29,7 @@ Task 19 Replace all characters A and c from input to Z and e respectively
 Task 20 Create a script that removes all letters c and C from input.
 Task 21 Write a script that reverse its input.
 Task 22 a script that displays all users and their home directories, sorted by users.
+Task 23 a command that finds all empty files and directories in the current directory and all sub-directories.
+Task 24 a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+Task 25  a script that decodes acrostics that use the first letter of each line.
+Task 26 a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
